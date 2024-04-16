@@ -11,7 +11,7 @@ This repository is part of a research project focused on solving the Critical No
 - `pso/`: Contains the implementation of the PSO algorithm.
 - `greedy_CNDP.py`: Contains the implementation of the greedy solution.
 - `vns.py`: Contains the implementation of the VNS solution.
-- `graphDataSet/`: Directory containing data sets used in the algorithms.
+- `graphDataSet/`: Directory containing data sets used in the algorithms. Dataset proposed by Mario Ventresca accessible in [https://engineering.purdue.edu/~mventresca/index.php?cnd]
 - `GraphTest.py`: Contains tests for graph functionalities used in algorithms.
 
 ## Getting Started
