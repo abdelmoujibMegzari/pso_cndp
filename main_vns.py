@@ -4,7 +4,7 @@ import random
 import sys
 
 from greedy_CNDP import greedy2
-from Graph.Graph import Graph
+from Graph import Graph
 from vns import VNS
 import time
 
