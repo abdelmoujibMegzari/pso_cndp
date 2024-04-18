@@ -13,6 +13,7 @@ This repository is part of a research project focused on solving the Critical No
 - `vns.py`: Contains the implementation of the VNS solution.
 - `graphDataSet/`: Directory containing data sets used in the algorithms. Dataset proposed by Mario Ventresca accessible in [https://engineering.purdue.edu/~mventresca/index.php?cnd]
 - `GraphTest.py`: Contains tests for graph functionalities used in algorithms.
+- `Results/`: Directory containing the results of the running the algorithms on graphDataSet graphs as described in the the thesis.
 
 ## Getting Started
 
